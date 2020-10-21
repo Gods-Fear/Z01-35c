@@ -11,6 +11,4 @@ if exist "%PATH%\*.%extension%" (
 
 
 
-::pause C:\Users\1\Desktop\PWR\2semestr\AISD\wyklad 
-:: C:\Users\1\Desktop\PWR\5semestr\Web\Lab_1 
-::C:\Users\1\Desktop\PWR\5semestr\JSkryp
+::pause 
