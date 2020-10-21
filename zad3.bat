@@ -2,8 +2,8 @@
 
 echo Detecting permissions...
 
-::net session >nul 2>&1
-net session >nul
+net session >nul 2>&1
+
 if %ERRORLEVEL% == 0 (
     echo Hello Admin.
 ) else (
